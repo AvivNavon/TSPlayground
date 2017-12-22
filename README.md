@@ -5,4 +5,4 @@ We use the [US Candy Production by Month](https://www.kaggle.com/rtatman/us-cand
 
 The app is available [here](https://avivnav.shinyapps.io/tsplayground/).
 
-![Alt text](TSPlayground.png?raw=true)
+![Alt text](Data/TSPlayground.png?raw=true)
